@@ -54,6 +54,8 @@ const GlobalStyle = createGlobalStyle`
   body {
     font-family: 'Source Sans 3', sans-serif;
     line-height: 1.2;
+    background-color: #18191A;
+    color: #E4E6EB;
   }
 `;
 
